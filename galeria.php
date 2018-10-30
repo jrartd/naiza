@@ -10,6 +10,12 @@
 				<a href="<?php echo $ruta; ?>foto1.jpg" data-lightbox="roadtrip">
 					<img src="<?php echo $ruta; ?>foto1.jpg" class="col-xs-12  zero " style="padding: 0px;">
 				</a>
+				<a href="<?php echo $ruta; ?>naiza (1).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (1).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
+				<a href="<?php echo $ruta; ?>naiza (2).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (2).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
 				
 			</div>
 			<div class="col-md-4 col-sm-6 col-xs-12" style="padding: 0px;">
@@ -22,6 +28,15 @@
 				<a href="<?php echo $ruta; ?>foto3.jpg" data-lightbox="roadtrip">
 					<img src="<?php echo $ruta; ?>foto3.jpg" class="col-xs-12  zero " style="padding: 0px;">
 				</a>
+				<a href="<?php echo $ruta; ?>naiza (3).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (3).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
+				<a href="<?php echo $ruta; ?>naiza (5).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (5).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
+				<a href="<?php echo $ruta; ?>naiza (6).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (6).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
 			</div>
 			<div class="col-md-4 col-sm-6 col-xs-12" style="padding: 0px;">
 				<a href="<?php echo $ruta; ?>imagen1-6.jpg" data-lightbox="roadtrip">
@@ -33,8 +48,10 @@
 				<a href="<?php echo $ruta; ?>foto4.jpg" data-lightbox="roadtrip">
 					<img src="<?php echo $ruta; ?>foto4.jpg" class="col-xs-12  zero " style="padding: 0px;">
 				</a>
-			</div>
-			
+				<a href="<?php echo $ruta; ?>naiza (4).JPG" data-lightbox="roadtrip">
+					<img src="<?php echo $ruta; ?>naiza (4).JPG" class="col-xs-12  zero " style="padding: 0px;">
+				</a>
+			</div>	
 		</div>
 	</div>
 	    <!-- boton incio-->

@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><img src="http://naizamusic.com/wp-content/uploads/2018/07/titleas.png" width="130" height="30" class="d-inline-block align-top" alt=""></a>
+      <a class="navbar-brand" href="http://naizamusic.com/"><img src="<?php echo($ruta)?>titleas.png" width="130" height="30" class="d-inline-block align-top" alt=""></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -21,11 +21,11 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-        	<a class="navbar-brand" href="#">
+        	<a class="navbar-brand" href="https://itunes.apple.com/us/album/relajada-single/1438764955">
         		<img src="<?php echo($ruta)?>itunes.png">
         </li>
         <li>
-        	<a class="navbar-brand" href="#">
+        	<a class="navbar-brand" href="https://itunes.apple.com/us/album/relajada-single/1438764955">
         		<img src="<?php echo($ruta)?>applemusic.png">
         </li>
         <li><a href="#"></a></li>

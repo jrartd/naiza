@@ -1,5 +1,5 @@
 <div class="container">
-  <h1 class="text-center" style="padding-top: 50px;padding-bottom: 50px; color: white; font-size: 20px;"> All Rights Reserved. - 2018</h1>
+  <h1 class="text-center" style="padding-top: 50px;padding-bottom: 50px; color: white; font-size: 20px;"> All Rights Reserved. - 2018 - Powered by Adsvision</h1>
 </div>
 
 <!-- Latest compiled and minified JavaScript -->

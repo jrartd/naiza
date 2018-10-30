@@ -11,7 +11,7 @@ Template name: landlinkses
 	<title>Naíza </title>
 	<?php 
 		$server = "http://naizamusic.com";
-		$ruta ="http://naizamusic.com/wp-content/uploads/2018/07/";
+		$ruta ="assets/";
 	 ?>
 </head>
 <body>
@@ -55,7 +55,7 @@ Template name: landlinkses
 
 	}
 	body{
-	background: url("http://naizamusic.com/wp-content/uploads/2018/07/blur2.jpg");
+	background-color:#ba007c;
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -66,14 +66,14 @@ Template name: landlinkses
 <div class="container" style="margin-top:40px; ">
 	<div class="main row">
 		<div class="col-md-4 col-md-offset-4">
-			<img src="<?php echo($ruta)?>imagen1-6.jpg" class="col-xs-12 img-responsive zero" alt="">
+			<img src="<?php echo($ruta)?>cover.png" class="col-xs-12 img-responsive zero" alt="">
 			<div class="col-xs-12 zero text-center" style="background: black;color: white;">
 				<h1 style="padding: 20px 0px 5px 0px; margin: 0;font-size: 24px;font-weight: 700;">Naíza</h1>
 				<p>Elige un servicio de música</p>
 			</div>
 			<div class="col-xs-12 zero text-center" style="background: white;color: black;">
 				<div class="col-xs-12" style="margin: 5px 0px;">
-					<a href="https://open.spotify.com/track/1EW33HBhaBU3AYPQpNTEEZ?si=t2ZcUQc0">
+					<a href="https://open.spotify.com/track/6Wb5cjZvxEk1bGCfNIGrs0?si=c0HzHoA5Q6eM-W-Z36SAgg">
 						<div class="col-xs-6">
 						<img style="padding: 5px;" src="<?php echo($ruta)?>Spotify_logo13.png" class="col-xs-12 img-responsive" alt="">
 					</div>
@@ -82,6 +82,7 @@ Template name: landlinkses
 					</div>
 					</a>
 				</div>
+				<!--
 				<div class="col-xs-12" style="margin: 5px 0px;">
 					<a href="http://www.deezer.com/search/NICOLE%20PERNIGOTTI">
 						<div class="col-xs-6">
@@ -92,8 +93,9 @@ Template name: landlinkses
 						</div>
 					</a>
 				</div>
+			-->
 				<div class="col-xs-12" style="margin: 5px 0px;">
-					<a href="https://itunes.apple.com/us/album/cayendo/id1285685087?i=1285685817">
+					<a href="https://itunes.apple.com/us/album/relajada-single/1438764955">
 						<div class="col-xs-6">
 							<img style="padding: 5px;" src="<?php echo($ruta)?>Apple_Music_logo.svg_.png" class="col-xs-12 img-responsive" alt="">
 						</div>
@@ -102,6 +104,7 @@ Template name: landlinkses
 						</div>
 					</a>
 				</div>
+				<!--
 				<div class="col-xs-12" style="margin: 5px 0px;">
 					<a href="https://play.google.com/store/search?q=nicole%20pernigotti&hl=es">
 						<div class="col-xs-6">
@@ -112,6 +115,7 @@ Template name: landlinkses
 						</div>
 					</a>
 				</div>
+			-->
 			</div>
 		</div>
 	</div>
