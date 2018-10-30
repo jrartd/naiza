@@ -34,7 +34,7 @@ Template name: landlinkses
 	}
 	.escuchar{
 		border: solid 1px #777;
-		font-size: 18px;
+		font-size: 16px;
 		font-weight: 300;
 		padding: 10px;
 		color: #777;
