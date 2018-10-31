@@ -66,7 +66,7 @@ Template name: landlinkses
 <div class="container" style="margin-top:40px; ">
 	<div class="main row">
 		<div class="col-md-4 col-md-offset-4">
-			<img src="<?php echo($ruta)?>cover.png" class="col-xs-12 img-responsive zero" alt="">
+			<img src="<?php echo($ruta)?>relajadacover.jpg" class="col-xs-12 img-responsive zero" alt="">
 			<div class="col-xs-12 zero text-center" style="background: black;color: white;">
 				<h1 style="padding: 20px 0px 5px 0px; margin: 0;font-size: 24px;font-weight: 700;">Naíza</h1>
 				<p>Elige un servicio de música</p>
